@@ -3,7 +3,7 @@ Version: 1.0
 
 This will install a full InfluxData Enterprise Cluster on Docker Containers.  The cluster will consist of 3 Metanodes, 2 Datanodes, Chronograf, and a NGINX loadbalancer in front of the datanodes.
 
-![](https://github.com/dp1140a/InfluxdataEntDockerInstaller/img/clusterarch.png)
+![](https://github.com/dp1140a/InfluxdataEntDockerInstaller/blob/master/img/clusterarc.png?raw=true)
 
 ### Pre Requisites:
 * Docker should be installed.
